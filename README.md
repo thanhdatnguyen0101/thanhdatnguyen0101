@@ -16,4 +16,5 @@ I enjoy learning new technologies and constantly improving my technical and prob
 ## Contact
 
 Email: nmthanhvdb2@gmail.com  
+LinkedIn: [linkedin.com/in/thanhdatnguyen0101](https://www.linkedin.com/in/thanhdatnguyen0101)
 GitHub: [github.com/thanhdatnguyen0101](https://github.com/thanhdatnguyen0101)
