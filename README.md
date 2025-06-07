@@ -15,4 +15,4 @@
 
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/email-nmthanhvdb2%40example.com-darkgreen?style=flat&logo=gmail&logoColor=white)](mailto:nmthanhvdb2@gmail.com)  
-[![GitHub](https://img.shields.io/badge/github-HuyHo-blue?style=flat&logo=github)](https://github.com/thanhdatnguyen0101)
+[![GitHub](https://img.shields.io/badge/github-thanhdatnguyen0101-blue?style=flat&logo=github)](https://github.com/thanhdatnguyen0101)
