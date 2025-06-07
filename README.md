@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👨‍💻 Thanh Dat 
 
-<!--
-**thanhdatnguyen0101/thanhdatnguyen0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+🔐 Cybersecurity Enthusiast  
+📍 Based in Vietnam, Ho Chi Minh City.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: `C/C++`, `Python`, `Java`
+- Tools: `Git`, `VS Code`, `Linux`
+- Interests: `System Security`, `Penetration Testing`, `AI in Security`
+
+---
+
+## 📫 Contact
+[![Email](https://img.shields.io/badge/email-huyho%40example.com-darkgreen?style=flat&logo=gmail&logoColor=white)](mailto:nmthanhvdb2@gmail.com)  
+[![GitHub](https://img.shields.io/badge/github-HuyHo-blue?style=flat&logo=github)](https://github.com/thanhdatnguyen0101)
