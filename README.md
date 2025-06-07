@@ -4,10 +4,15 @@ Software Engineering Student
 Cybersecurity Enthusiast  
 Based in Vietnam
 
-#  Tech Stack
-- Languages: `C/C++`, `Python`, `Java`
-- Tools: `Git`, `VS Code`, `Linux`
-- Interests: `System Security`, `Penetration Testing`, `AI in Security`
+## Tech Stack
+
+- Languages: C/C++, Python, Java  
+- Tools: Git, VS Code, Linux  
+- Interests: System Security, Penetration Testing, AI in Security  
+
+## Current Focus
+
+Currently exploring cybersecurity and studying algorithms to strengthen problem-solving skills.
 
 ## About Me
 
@@ -17,5 +22,5 @@ I enjoy learning new technologies and constantly improving my technical and prob
 ## Contact
 
 Email: nmthanhvdb2@gmail.com  
-LinkedIn: [linkedin.com/in/thanhdatnguyen0101](https://www.linkedin.com/in/thanhdatnguyen0101)
+LinkedIn: [linkedin.com/in/thanhdatnguyen0101](https://www.linkedin.com/in/thanhdatnguyen0101)  
 GitHub: [github.com/thanhdatnguyen0101](https://github.com/thanhdatnguyen0101)
