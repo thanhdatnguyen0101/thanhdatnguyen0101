@@ -14,5 +14,5 @@
 ---
 
 ## 📫 Contact
-[![Email](https://img.shields.io/badge/email-huyho%40example.com-darkgreen?style=flat&logo=gmail&logoColor=white)](mailto:nmthanhvdb2@gmail.com)  
+[![Email](https://img.shields.io/badge/email-nmthanhvdb2%40example.com-darkgreen?style=flat&logo=gmail&logoColor=white)](mailto:nmthanhvdb2@gmail.com)  
 [![GitHub](https://img.shields.io/badge/github-HuyHo-blue?style=flat&logo=github)](https://github.com/thanhdatnguyen0101)
