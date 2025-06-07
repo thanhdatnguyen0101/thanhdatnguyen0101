@@ -1,18 +1,19 @@
-# 👨‍💻 Thanh Dat 
+# Thanh Dat Nguyen
 
-🎓 Software Engineering Student  
-🔐 Cybersecurity Enthusiast  
-📍 Based in Vietnam, Ho Chi Minh City.  
-
----
-
-## 🛠️ Tech Stack
+Software Engineering Student  
+Cybersecurity Enthusiast  
+Based in Vietnam
+#  Tech Stack
 - Languages: `C/C++`, `Python`, `Java`
 - Tools: `Git`, `VS Code`, `Linux`
 - Interests: `System Security`, `Penetration Testing`, `AI in Security`
 
----
+## About Me
 
-## 📫 Contact
-[![Email](https://img.shields.io/badge/email-nmthanhvdb2%40gmail.com-darkgreen?style=flat&logo=gmail&logoColor=white)](mailto:nmthanhvdb2@gmail.com)  
-[![GitHub](https://img.shields.io/badge/github-thanhdatnguyen0101-blue?style=flat&logo=github)](https://github.com/thanhdatnguyen0101)
+I am passionate about building reliable systems and exploring the world of cybersecurity.  
+I enjoy learning new technologies and constantly improving my technical and problem-solving skills.
+
+## Contact
+
+Email: nmthanhvdb2@gmail.com  
+GitHub: [github.com/thanhdatnguyen0101](https://github.com/thanhdatnguyen0101)
