@@ -19,7 +19,6 @@ Currently exploring cybersecurity and studying algorithms to strengthen problem-
 I am passionate about building reliable systems and exploring the world of cybersecurity.  
 I enjoy learning new technologies and constantly improving my technical and problem-solving skills.
 
-![tryhackme stats](https://raw.githubusercontent.com/<thanhdat0101>/<thanhdat0101>/master/assets/thm_propic.png)
 ## Contact
 
 Email: nmthanhvdb2@gmail.com  
