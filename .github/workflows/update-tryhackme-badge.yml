@@ -1,0 +1,33 @@
+name: Update TryHackMe Badge # Tên của workflow này
+
+on:
+  schedule:
+    # Chạy workflow này hàng ngày vào lúc nửa đêm UTC
+    # Mày có thể điều chỉnh thời gian theo cron job syntax nếu muốn
+    - cron: '0 0 * * *' 
+  # Cho phép chạy workflow này thủ công từ tab Actions
+  workflow_dispatch: 
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest # Chạy trên hệ điều hành Ubuntu mới nhất
+    steps:
+      - name: Checkout repository # Bước 1: Kéo code của repo về máy ảo
+        uses: actions/checkout@v2
+
+      - name: Fetch TryHackMe Badge # Bước 2: Dùng action của bên thứ 3 để lấy badge
+        # Sử dụng action "geeekgod/tryhackme-badge-action@v1.0"
+        # Hoặc có thể dùng "DhanushNehru/tryhackme-badge-action-workflow@main" nếu cái trên không chạy.
+        uses: geeekgod/tryhackme-badge-action@v1.0 
+        with:
+          # Thay thế bằng username TryHackMe của mày từ Bước 2
+          username: thanhdat0101
+          # Thay thế bằng user ID TryHackMe của mày từ Bước 2
+          user_id: 3592873
+          # Đường dẫn lưu ảnh badge trong repo của mày
+          # Đảm bảo đường dẫn này khớp với đường dẫn mày sẽ dùng trong README.md
+          image_path: ./assets/tryhackme-badge.png 
+          # Token mặc định của GitHub Actions, không cần sửa
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          # Tin nhắn commit khi ảnh badge được cập nhật
+          commit_message: "Updated TryHackMe profile badge"
