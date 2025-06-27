@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Fetch TryHackMe Badge
-        uses: geeekgod/tryhackme-badge-action@v1.0
+        uses: DhanushNehru/tryhackme-badge-action-workflow@main
         with:
           username: thanhdat0101
           user_id: 3592873 
