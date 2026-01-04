@@ -1,26 +1,23 @@
-# Thanh Dat Nguyen
+# Hi, I'm Thanh Dat Nguyen 👋
 
-Software Engineering Student  
-Cybersecurity Enthusiast  
-Based in Vietnam
+**Software Engineering Student | Cybersecurity Enthusiast** 📍 Based in Vietnam
 
-## Tech Stack
+---
 
-- Languages: C/C++, Python, Java  
-- Tools: Git, VS Code, Linux  
-- Interests: System Security, Penetration Testing, AI in Security  
+### 🚀 About Me
 
-## Current Focus
+I am a Software Engineering student passionate about building reliable systems and securing digital infrastructures. My goal is to bridge the gap between software development and security.
 
-Currently exploring cybersecurity and studying algorithms to strengthen problem-solving skills.
+* **Current Focus:** Deepening knowledge in Cybersecurity, specifically **Blue Team** operations.
+* **Interests:** System Security, Penetration Testing, AI in Security.
 
-## About Me
+### 🛠️ Tech Stack
 
-I am passionate about building reliable systems and exploring the world of cybersecurity.  
-I enjoy learning new technologies and constantly improving my technical and problem-solving skills.
+* **Languages:** C/C++, Python, Java
+* **Tools:** Git, VS Code, Linux
+* **Operating Systems:** Windows, Linux (Kali, Ubuntu)
 
-## Contact
+### 📫 Connect with me
 
-Email: nmthanhvdb2@gmail.com  
-LinkedIn: [linkedin.com/in/thanhdatnguyen0101](https://www.linkedin.com/in/thanhdatnguyen0101)  
-GitHub: [github.com/thanhdatnguyen0101](https://github.com/thanhdatnguyen0101)
+* **Email:** [nmthanhvdb2@gmail.com](mailto:nmthanhvdb2@gmail.com)
+* **LinkedIn:** [linkedin.com/in/thanhdatnguyen0101](https://www.linkedin.com/in/thanhdatnguyen0101)
