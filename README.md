@@ -4,7 +4,7 @@
 $ whoami
 
 role    : Software Engineering Student & Security Enthusiast
-focus   : Blue Team | Defensive Security | System Hardening
+focus   : Red Team | Offensive Security
 fuel    : Specialty Coffee & Manual Espresso
 loc     : Vietnam
 ```
