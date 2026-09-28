@@ -1,4 +1,4 @@
-# Dat Nguyen — `thd4tngx0101`
+# Thanh Dat Nguyen — `thd4tngx0101`
 
 ```bash
 $ whoami
